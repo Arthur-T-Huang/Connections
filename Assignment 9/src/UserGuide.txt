@@ -1,0 +1,21 @@
+User Guide On How To Play Connections:
+
+Extra Credit: 
+-  Added a feature that re-shuffles the tiles on the board if the key s is pressed
+-  Enhanced background graphics in the game background, winning scene, and losing scene
+
+Our game Connections is played on a 4 by 4 tile grid in which each tile contains a word.
+The player must select four words to which they believe share some commonality, in an attempt
+to guess the correct word group. There are four correct word groups, each with four corresponding 
+words. A player starts the game with four lives, if the four words they selected do not match any of
+the answer groups, the player loses a life. If the player loses all their lives, they lose the game.
+If the player is able to guess all four answer groups before they lose all lives, they win the game.
+Additionally, the player has the option to de-select all selected tiles at the moment by clicking the 
+"d" key, to re-shuffle the remaining tiles on the board by clicking the "s" key, and to reset
+the entire game by clicking the "r" key.
+
+Disclaimer: the images for the game are stored within the zip file, however in the events
+that the images do not load properly, the game will continue to run just without 
+the presence of the images.
+
+
